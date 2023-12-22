@@ -1,4 +1,10 @@
 # Changelog
+# 0.25.2
+- Update Netbird to 0.25.2
+
+# 0.25.1
+- Update Netbird to 0.25.1
+
 # 1.23.9
 - Update NetBird to 0.23.9
 - Update base images
